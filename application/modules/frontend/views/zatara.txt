@@ -1,0 +1,27 @@
+1. Font issue in select shipping nad language  (fixed)
+2. transate plugin (Fixed)
+3. vicky account (Fixed)
+4. menu list  (Fixed)
+5. language breaking issue on selecting arabic (Fixed)
+6.wishlist adding cart (Fixed)
+7. recomended should be from  cats (Fixed)
+8.zoom issue  (Fixed)
+
+9. import image issue (you have to upgrade your server)
+10 . Delete report abuse (Fixed)
+11 . add import by sku (Not posiible since cj not providing any api)
+12 . after place the order change color of go to back home page (Fixed)
+13 .shipping integration 
+14 . hide home page  (Fixed  there is option to hide home page cats section in cms home setting)
+15 . hide computer + phone categories and hide computer from slider and hide banner of consumer electronics
+
+(you can change it through cms home page setting you can change cats and images also)
+
+16. menu of ctegories sequence (you  can change it by editng the cats seq  lower the value higher position )
+17 .same item under multiple categproies at the same time (this is not possible since all data are based on cj data architecture if we change all project structure will vanished)
+18 . hide the brand  (Fixed)
+19 . review reset all values and show the option to review the comments and reviews  (Fixed)
+20 . import only the new item and get notification of new item from cjdropshipping (we have to implemetn cron job so we nned a dedicated server or vps or aws)
+21 . image & video import (since all data is imported from cji platform so if they provide image or video that will automatically imported and embeded , you can also embed manually  embeding iframe by editing product description  )
+22 . on review submition  email is not available (when you are logged in that time no need of email applicatio is detection email automatically , if any user is not logged in than it will ask for the email)
+

@@ -1,0 +1,2412 @@
+a:2:{s:6:"expire";i:1595087413;s:7:"headers";a:0:{}}ENDCI---><!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <link rel="shortcut icon" href="https://mboss.electroshop.co/frontend-assets/favicon.png">
+  <meta name="author" content="">
+  <meta name="keywords" content="">
+  <meta name="description" content="">
+  <title>Zataraa Online Shopping</title>
+  <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,600,700&amp;subset=latin-ext" rel="stylesheet">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/plugins/font-awesome/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/fonts/Linearicons/Linearicons/Font/demo-files/demo.css">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/plugins/bootstrap4/css/bootstrap.min.css">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/plugins/owl-carousel/assets/owl.carousel.css">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/plugins/slick/slick/slick.css">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/plugins/lightGallery-master/dist/css/lightgallery.min.css">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/plugins/jquery-bar-rating/dist/themes/fontawesome-stars.css">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/plugins/jquery-ui/jquery-ui.min.css">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/plugins/select2/dist/css/select2.min.css">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/css/style.css">
+  <link rel="stylesheet" href="https://mboss.electroshop.co//frontend-assets/css/home-wrapper.css">
+  <link href="https://mboss.electroshop.co/admin-assets/css/chosen.css" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="https://mboss.electroshop.co//frontend-assets/css/main.css">
+
+   <link rel="stylesheet" type="text/css" href="https://mboss.electroshop.co//frontend-assets/translate/style.css">
+   <link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
+   <link rel="stylesheet" type="text/css" href="https://mboss.electroshop.co//frontend-assets/css/jquery.exzoom.css" media="all" /> 
+   <!-- Facebook Pixel Code -->
+<style type="text/css">
+  .skiptranslate.goog-te-gadget span{
+   display:none !important;
+} 
+ .skiptranslate.goog-te-gadget {
+    font-size: 0;
+}
+select.goog-te-combo {
+    border: 0;
+    color: #1b1b1b;
+}
+</style>
+<script>
+
+!function(f,b,e,v,n,t,s)
+
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+
+n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];
+
+s.parentNode.insertBefore(t,s)}(window,document,'script',
+
+'https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '136621337651519');
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript>
+
+<img height="1" width="1"
+
+src="https://www.facebook.com/tr?id=136621337651519&ev=PageView
+
+&noscript=1"/>
+
+</noscript>
+
+<!-- End Facebook Pixel Code -->
+</head>
+<body>
+
+<div class="ps-site-overlay"></div>
+<div id="loader-wrapper">
+  <div class="loader-section section-left"></div>
+  <div class="loader-section section-right"></div>
+</div>
+<!---- Menus For Desktop View --->
+<header class="header  header--market-place-3" data-sticky="true">
+  <div class="top-section">
+    <div class="container">
+      <ul class="header__top-links">
+        <li>
+        
+          <!-- new dropdown -->
+          <div class="ps-dropdown"><a href="#">Ship To /</a>
+            <ul class="ps-dropdown-menu new_dropdown1 ">
+              <li> 
+                  <h4>Select Regional Settings</h4>
+              </li>
+              <li> 
+                  <p>Ship to</p>
+                  <input list="country" name="country" class="country099">
+                  <datalist id="country">
+                    <option value="Australia">
+                      <option value="Austria">
+                      <option value="Belgium">
+                      <option value="Brazil">
+                      <option value="Canada">
+                      <option value="Colombia">
+                      <option value="Czech Republic">
+                      <option value="Denmark">
+                      <option value="Finland">
+                      <option value="France">
+                      <option value="Germany">
+                      <option value="Hungary">
+                      <option value="Iceland">
+                      <option value="Ireland">
+                      <option value="Italy">
+                      <option value="Kuwait">
+                      <option value="Luxembourg">
+                      <option value="Mexico">
+                      <option value="Netherlands">
+                      <option value="New Zealand">
+                      <option value="Norway">
+                      <option value="Poland">
+                      <option value="Portugal">
+                      <option value="Saudi Arabia">
+                      <option value="South Africa">
+                      <option value="Spain">
+                      <option value="Sweden">
+                      <option value="Switzerland">
+                      <option value="Uganda">
+                      <option value="United Kingdom">
+                      <option value="United States">
+                                        </datalist>
+              </li>
+              <li> 
+                  <p>Currency</p>
+
+                   <input list="currencies" name="currencies" class="country099">
+                  <datalist id="currencies">
+                    
+<option value="AFN">
+                      
+<option value="ALL">
+                      
+<option value="ANG">
+                      
+<option value="ARS">
+                      
+<option value="AUD">
+                      
+<option value="AWG">
+                      
+<option value="AZN">
+                      
+<option value="BAM">
+                      
+<option value="BBD">
+                      
+<option value="BGN">
+                      
+<option value="BMD">
+                      
+<option value="BND">
+                      
+<option value="BOB">
+                      
+<option value="BRL">
+                      
+<option value="BSD">
+                      
+<option value="BWP">
+                      
+<option value="BYR">
+                      
+<option value="BZD">
+                      
+<option value="CAD">
+                      
+<option value="CHF">
+                      
+<option value="CLP">
+                      
+<option value="CNY">
+                      
+<option value="COP">
+                      
+<option value="CRC">
+                      
+<option value="CUP">
+                      
+<option value="CZK">
+                      
+<option value="DKK">
+                      
+<option value="DOP ">
+                      
+<option value="EGP">
+                      
+<option value="EUR">
+                      
+<option value="FJD">
+                      
+<option value="FKP">
+                      
+<option value="GBP">
+                      
+<option value="GGP">
+                      
+<option value="GHC">
+                      
+<option value="GIP">
+                      
+<option value="GTQ">
+                      
+<option value="GYD">
+                      
+<option value="HKD">
+                      
+<option value="HNL">
+                      
+<option value="HRK">
+                      
+<option value="HUF">
+                      
+<option value="IDR">
+                      
+<option value="ILS">
+                      
+<option value="IMP">
+                      
+<option value="INR">
+                      
+<option value="IRR">
+                      
+<option value="ISK">
+                      
+<option value="JEP">
+                      
+<option value="JMD">
+                      
+<option value="JPY">
+                      
+<option value="KGS">
+                      
+<option value="KHR">
+                      
+<option value="KPW">
+                      
+<option value="KRW">
+                      
+<option value="KWD">
+                      
+<option value="KYD">
+                      
+<option value="KZT">
+                      
+<option value="LAK">
+                      
+<option value="LBP">
+                      
+<option value="LKR">
+                      
+<option value="LRD">
+                      
+<option value="LTL">
+                      
+<option value="LVL">
+                      
+<option value="MKD">
+                      
+<option value="MNT">
+                      
+<option value="MUR">
+                      
+<option value="MX">
+                      
+<option value="MYR">
+                      
+<option value="MZN">
+                      
+<option value="NAD">
+                      
+<option value="NGN">
+                      
+<option value="NIO">
+                      
+<option value="NOK">
+                      
+<option value="NPR">
+                      
+<option value="NZD">
+                      
+<option value="OMR">
+                      
+<option value="PAB">
+                      
+<option value="PEN">
+                      
+<option value="PHP">
+                      
+<option value="PKR">
+                      
+<option value="PLN">
+                      
+<option value="PYG">
+                      
+<option value="QAR">
+                      
+<option value="RON">
+                      
+<option value="RSD">
+                      
+<option value="RUB">
+                      
+<option value="SAR">
+                      
+<option value="SBD">
+                      
+<option value="SCR">
+                      
+<option value="SEK">
+                      
+<option value="SGD">
+                      
+<option value="SHP">
+                      
+<option value="SOS">
+                      
+<option value="SRD">
+                      
+<option value="SVC">
+                      
+<option value="SYP">
+                      
+<option value="THB">
+                      
+<option value="TRL">
+                      
+<option value="TRY">
+                      
+<option value="TTD">
+                      
+<option value="TVD">
+                      
+<option value="TWD">
+                      
+<option value="UAH">
+                      
+<option value="USD">
+                      
+<option value="UYU">
+                      
+<option value="UZS">
+                      
+<option value="VEF">
+                      
+<option value="VND">
+                      
+<option value="XCD">
+                      
+<option value="YER">
+                      
+<option value="ZAR">
+                      
+<option value="ZWD">
+                                          
+                   
+                  </datalist>
+                  
+                   
+              </li>
+              <li> <button class="btn btn-lg btn-info apply_currencies">Apply</button> </li>
+            </ul>
+          </div>
+          <!-- End Dropdown -->
+        </li>
+        <li>
+          <div class="ps-dropdown language" id="google_translate_element">
+          </div>
+        </li>
+      </ul>
+    </div>
+
+  </div>
+  <div class="header__top">
+    <div class="container">
+
+
+
+      <div class="header__left">
+        <div class="menu--product-categories">
+          <div class="menu__toggle"><i class="icon-menu"></i><span> Shop by Category</span></div>
+          <div class="menu__content header_menu-cats" id="">
+            
+          </div>
+        </div><a class="ps-logo" href="https://mboss.electroshop.co/"><img src="https://mboss.electroshop.co//frontend-assets/img/logo.png" alt=""></a>
+      </div>
+      <div class="header__center">
+        <form class="ps-form--quick-search" action="https://mboss.electroshop.co/products" method="get">
+          <div class="form-group--icon"><i class="icon-chevron-down"></i>
+            <select name="cats" class="form-control cats">
+              <option value="">All</option>
+                             <option value="1126E280-CB7D-418A-90AB-7118E2D97CCC">Computer & Office</option>
+                             <option value="6A5D2EB4-13BD-462E-A627-78CFED11B2A2">Home Improvement</option>
+                             <option value="2415A90C-5D7B-4CC7-BA8C-C0949F9FF5D8">Bag & Shoes</option>
+                             <option value="4B397425-26C1-4D0E-B6D2-96B0B03689DB">Sports & Outdoors</option>
+                             <option value="A2F799BE-FB59-428E-A953-296AA2673FCF">Automobiles & Motorcycles</option>
+                             <option value="2837816E-2FEA-4455-845C-6F40C6D70D1E">Jewelry & Watches</option>
+                             <option value="A50A92FA-BCB3-4716-9BD9-BEC629BEE735">Toys, Kids & Baby</option>
+                             <option value="2C7D4A0B-1AB2-41EC-8F9E-13DC31B1C902">Health & Beauty, Hair</option>
+                             <option value="B8302697-CF47-4211-9BD0-DFE8995AEB30">Men's Clothing</option>
+                             <option value="2FE8A083-5E7B-4179-896D-561EA116F730">Women's Clothing</option>
+                             <option value="D9E66BF8-4E81-4CAB-A425-AEDEC5FBFBF2">Consumer Electronics</option>
+                             <option value="E9FDC79A-8365-4CA6-AC23-64D971F08B8B">Phones & Accessories</option>
+                             <option value="52FC6CA5-669B-4D0B-B1AC-415675931399">Home & Garden, Furniture</option>
+                          </select>
+          </div>
+          <input class="form-control" name="s" id="tags" type="text" placeholder="I'm shopping for...">
+          <button type="submit">Search</button>
+        </form>
+      </div>
+      <div class="header__right">
+        <div class="header__actions">
+          <a class="header__extra" href="https://mboss.electroshop.co/wishlist"><i class="icon-heart"></i><span class="wish-list"><i>0</i></span></a>
+          <div class="ps-cart--mini"><a class="header__extra" href="https://mboss.electroshop.co/cart"><i class="icon-bag2"></i><span class="mini-cart-count"><i>0</i></span></a>
+            <div class="ps-cart__content">
+              <div class="ps-cart__items">
+                
+              </div>
+              <div class="ps-cart__footer">
+                <h3>Sub Total:<strong>USD $0</strong></h3>
+                <figure><a class="ps-btn" href="https://mboss.electroshop.co/cart">View Cart</a><a class="ps-btn" href="https://mboss.electroshop.co/checkout">Checkout</a></figure>
+              </div>
+            </div>
+          </div>
+          <div class="ps-block--user-header">
+            <div class="ps-block__left"><a href="https://mboss.electroshop.co/users"><i class="icon-user" title=""></i></a></div>
+
+                        <div class="ps-block__right"><a href="https://mboss.electroshop.co/users/login">Login</a><a href="https://mboss.electroshop.co/users/login?action=register">Register</a></div>
+                      </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <nav class="navigation">
+    <div class="container">
+      <div class="navigation__left">
+        <div class="menu--product-categories" style="background-color: transparent;
+    display: block;">
+          <div class="menu__toggle active"><i class="icon-menu"></i><span> Shop by Category</span></div>
+          <div class="menu__content"></div>
+        </div>
+      </div>
+      <div class="navigation__right">
+
+        <ul class="navigation__extra">
+          <li><a href="#">Deals</a></li>
+          <li><a href="https://mboss.electroshop.co/products">New</a></li>
+           
+        </ul>
+      </div>
+    </div>
+  </nav>
+</header>
+<!---- /Menus For Desktop View --->
+
+<!---- Menus For Mobile View --->
+<header class="header header--mobile" data-sticky="true">
+  <div class="header__top">
+    <div class="header__left">&nbsp;</div>
+    <div class="header__right">
+      <ul class="navigation__extra">
+       <!--  <li><a href="#">Sell on Zataraa</a></li>
+        <li><a href="#">Tract your order</a></li> -->
+        <li>
+          <div class="ps-dropdown">
+<a href="#">Ship To /</a>
+            <ul class="ps-dropdown-menu new_dropdown1 ">
+              <li> 
+                  <h4>Select Regional Settings</h4>
+              </li>
+              <li> 
+                  <p>Ship to</p>
+                  <input list="country" name="country" class="country099">
+                  <datalist id="country">
+                    <option value="Australia">
+                      <option value="Austria">
+                      <option value="Belgium">
+                      <option value="Brazil">
+                      <option value="Canada">
+                      <option value="Colombia">
+                      <option value="Czech Republic">
+                      <option value="Denmark">
+                      <option value="Finland">
+                      <option value="France">
+                      <option value="Germany">
+                      <option value="Hungary">
+                      <option value="Iceland">
+                      <option value="Ireland">
+                      <option value="Italy">
+                      <option value="Kuwait">
+                      <option value="Luxembourg">
+                      <option value="Mexico">
+                      <option value="Netherlands">
+                      <option value="New Zealand">
+                      <option value="Norway">
+                      <option value="Poland">
+                      <option value="Portugal">
+                      <option value="Saudi Arabia">
+                      <option value="South Africa">
+                      <option value="Spain">
+                      <option value="Sweden">
+                      <option value="Switzerland">
+                      <option value="Uganda">
+                      <option value="United Kingdom">
+                      <option value="United States">
+                                        </datalist>
+              </li>
+              <li> 
+                  <p>Currency</p>
+
+                   <input list="currencies" name="currencies" class="country099">
+                  <datalist id="currencies">
+                    
+<option value="AFN">
+                      
+<option value="ALL">
+                      
+<option value="ANG">
+                      
+<option value="ARS">
+                      
+<option value="AUD">
+                      
+<option value="AWG">
+                      
+<option value="AZN">
+                      
+<option value="BAM">
+                      
+<option value="BBD">
+                      
+<option value="BGN">
+                      
+<option value="BMD">
+                      
+<option value="BND">
+                      
+<option value="BOB">
+                      
+<option value="BRL">
+                      
+<option value="BSD">
+                      
+<option value="BWP">
+                      
+<option value="BYR">
+                      
+<option value="BZD">
+                      
+<option value="CAD">
+                      
+<option value="CHF">
+                      
+<option value="CLP">
+                      
+<option value="CNY">
+                      
+<option value="COP">
+                      
+<option value="CRC">
+                      
+<option value="CUP">
+                      
+<option value="CZK">
+                      
+<option value="DKK">
+                      
+<option value="DOP ">
+                      
+<option value="EGP">
+                      
+<option value="EUR">
+                      
+<option value="FJD">
+                      
+<option value="FKP">
+                      
+<option value="GBP">
+                      
+<option value="GGP">
+                      
+<option value="GHC">
+                      
+<option value="GIP">
+                      
+<option value="GTQ">
+                      
+<option value="GYD">
+                      
+<option value="HKD">
+                      
+<option value="HNL">
+                      
+<option value="HRK">
+                      
+<option value="HUF">
+                      
+<option value="IDR">
+                      
+<option value="ILS">
+                      
+<option value="IMP">
+                      
+<option value="INR">
+                      
+<option value="IRR">
+                      
+<option value="ISK">
+                      
+<option value="JEP">
+                      
+<option value="JMD">
+                      
+<option value="JPY">
+                      
+<option value="KGS">
+                      
+<option value="KHR">
+                      
+<option value="KPW">
+                      
+<option value="KRW">
+                      
+<option value="KWD">
+                      
+<option value="KYD">
+                      
+<option value="KZT">
+                      
+<option value="LAK">
+                      
+<option value="LBP">
+                      
+<option value="LKR">
+                      
+<option value="LRD">
+                      
+<option value="LTL">
+                      
+<option value="LVL">
+                      
+<option value="MKD">
+                      
+<option value="MNT">
+                      
+<option value="MUR">
+                      
+<option value="MX">
+                      
+<option value="MYR">
+                      
+<option value="MZN">
+                      
+<option value="NAD">
+                      
+<option value="NGN">
+                      
+<option value="NIO">
+                      
+<option value="NOK">
+                      
+<option value="NPR">
+                      
+<option value="NZD">
+                      
+<option value="OMR">
+                      
+<option value="PAB">
+                      
+<option value="PEN">
+                      
+<option value="PHP">
+                      
+<option value="PKR">
+                      
+<option value="PLN">
+                      
+<option value="PYG">
+                      
+<option value="QAR">
+                      
+<option value="RON">
+                      
+<option value="RSD">
+                      
+<option value="RUB">
+                      
+<option value="SAR">
+                      
+<option value="SBD">
+                      
+<option value="SCR">
+                      
+<option value="SEK">
+                      
+<option value="SGD">
+                      
+<option value="SHP">
+                      
+<option value="SOS">
+                      
+<option value="SRD">
+                      
+<option value="SVC">
+                      
+<option value="SYP">
+                      
+<option value="THB">
+                      
+<option value="TRL">
+                      
+<option value="TRY">
+                      
+<option value="TTD">
+                      
+<option value="TVD">
+                      
+<option value="TWD">
+                      
+<option value="UAH">
+                      
+<option value="USD">
+                      
+<option value="UYU">
+                      
+<option value="UZS">
+                      
+<option value="VEF">
+                      
+<option value="VND">
+                      
+<option value="XCD">
+                      
+<option value="YER">
+                      
+<option value="ZAR">
+                      
+<option value="ZWD">
+                                          
+                   
+                  </datalist>
+                  
+                   
+              </li>
+              <li> <button class="btn btn-lg btn-info apply_currencies">Apply</button> </li>
+            </ul>
+          
+
+
+          </div>
+        </li>
+        <li>
+          <div class="ps-dropdown language"><a href="#"><img src="https://mboss.electroshop.co//frontend-assets/img/flag/en.png" alt="">English</a>
+            <ul class="ps-dropdown-menu">
+              <li><a href="#"><img src="https://mboss.electroshop.co//frontend-assets/img/flag/germany.png" alt=""> Germany</a></li>
+              <li><a href="#"><img src="https://mboss.electroshop.co//frontend-assets/img/flag/fr.png" alt=""> France</a></li>
+            </ul>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class="navigation--mobile">
+    <div class="navigation__left"><a class="ps-logo" href="https://mboss.electroshop.co/"><img src="https://mboss.electroshop.co//frontend-assets/img/logo_mobile.png" alt=""></a></div>
+    <div class="navigation__right">
+      <div class="header__actions">
+        <div class="ps-cart--mini"><a class="header__extra" href="#"><i class="icon-bag2"></i><span class="mini-cart-count"><i>0</i></span></a>
+          <div class="ps-cart__content">
+            <div class="ps-cart__items">
+
+                            
+              
+            </div>
+            <div class="ps-cart__footer">
+              <h3>Sub Total:<strong>$0</strong></h3>
+              <figure><a class="ps-btn" href="https://mboss.electroshop.co/cart">View Cart</a><a class="ps-btn" href="https://mboss.electroshop.co/checkout">Checkout</a></figure>
+            </div>
+          </div>
+        </div>
+        <div class="ps-block--user-header">
+          <div class="ps-block__left"><i class="icon-user" title=""></i></div>
+          <div class="ps-block__right">
+                        <a href="https://mboss.electroshop.co/users/login">Login</a><a href="https://mboss.electroshop.co/users/login?action=register">Register</a>
+                    </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ps-search--mobile">
+    <form class="ps-form--search-mobile" action="#" method="get">
+      <div class="form-group--nest">
+        <input class="form-control" type="text" placeholder="Search something...">
+        <button><i class="icon-magnifier"></i></button>
+      </div>
+    </form>
+  </div>
+</header>
+
+<div class="navigation--list">
+  <div class="navigation__content">
+    <a class="navigation__item ps-toggle--sidebar" href="#menu-mobile"><i class="icon-menu"></i><span> Menu</span></a>
+    <a class="navigation__item ps-toggle--sidebar" href="#navigation-mobile"><i class="icon-list4"></i><span> Categories</span></a>
+    <a class="navigation__item ps-toggle--sidebar" href="#search-sidebar"><i class="icon-magnifier"></i><span> Search</span></a>
+    <a class="navigation__item ps-toggle--sidebar" href="#cart-mobile"><i class="icon-bag2"></i><span> Cart</span></a>
+  </div>
+</div>
+<div class="ps-panel--sidebar" id="menu-mobile">
+  <div class="ps-panel__header">
+    <h3>Menu</h3>
+  </div>
+  <div class="ps-panel__content">
+    <ul class="menu--mobile">
+      <li class="current-menu-item"><a href="#">Home</a></li>
+      <li class="current-menu-item"><a href="#">Shop by Deal</a></li>
+      <li class="current-menu-item"><a href="#">Offer Zone</a></li>
+      <li class="current-menu-item"><a href="#">Account</a></li>
+      <li class="current-menu-item"><a href="#">My Orders</a></li>
+      <li class="current-menu-item"><a href="#">Cart</a></li>
+      <li class="current-menu-item"><a href="#">Wishlist</a></li>
+      <li class="current-menu-item"><a href="#">Notification</a></li>
+      <li class="current-menu-item"><a href="">Shop by Deal</a></li>
+      <li class="current-menu-item menu-item-has-children"><a href="#">About</a><span class="sub-toggle"></span>
+        <ul class="sub-menu">
+          <li><a href="#">Our Story</a>
+          </li>
+          <li><a href="#">Privacy Policy</a>
+          </li>
+          <li><a href="#">Terms & Condition</a>
+          </li>
+          <li><a href="#">Return Policy</a>
+          </li>
+        </ul>
+      </li>
+      <li class="current-menu-item"><a href="#">Contact Us</a></li>
+    </ul>
+  </div>
+</div>
+<div class="ps-panel--sidebar" id="navigation-mobile">
+  <div class="ps-panel__header">
+    <h3>Categories</h3>
+  </div>
+  <div class="ps-panel__content">
+    <ul class="menu--mobile">
+      <li><a href="#">Hot Promotions</a>
+      </li>
+      <li class="menu-item-has-children has-mega-menu"><a href="#">Consumer Electronic</a><span class="sub-toggle"></span>
+        <div class="mega-menu">
+          <div class="mega-menu__column">
+            <h4>Electronic<span class="sub-toggle"></span></h4>
+            <ul class="mega-menu__list">
+              <li><a href="#">Home Audio &amp; Theathers</a>
+              </li>
+              <li><a href="#">TV &amp; Videos</a>
+              </li>
+              <li><a href="#">Camera, Photos &amp; Videos</a>
+              </li>
+              <li><a href="#">Cellphones &amp; Accessories</a>
+              </li>
+              <li><a href="#">Headphones</a>
+              </li>
+              <li><a href="#">Videosgames</a>
+              </li>
+              <li><a href="#">Wireless Speakers</a>
+              </li>
+              <li><a href="#">Office Electronic</a>
+              </li>
+            </ul>
+          </div>
+          <div class="mega-menu__column">
+            <h4>Accessories &amp; Parts<span class="sub-toggle"></span></h4>
+            <ul class="mega-menu__list">
+              <li><a href="#">Digital Cables</a>
+              </li>
+              <li><a href="#">Audio &amp; Video Cables</a>
+              </li>
+              <li><a href="#">Batteries</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </li>
+      <li><a href="#">Clothing &amp; Apparel</a>
+      </li>
+      <li><a href="#">Home, Garden &amp; Kitchen</a>
+      </li>
+      <li><a href="#">Health &amp; Beauty</a>
+      </li>
+      <li><a href="#">Yewelry &amp; Watches</a>
+      </li>
+      <li class="menu-item-has-children has-mega-menu"><a href="#">Computer &amp; Technology</a><span class="sub-toggle"></span>
+        <div class="mega-menu">
+          <div class="mega-menu__column">
+            <h4>Computer &amp; Technologies<span class="sub-toggle"></span></h4>
+            <ul class="mega-menu__list">
+              <li><a href="#">Computer &amp; Tablets</a>
+              </li>
+              <li><a href="#">Laptop</a>
+              </li>
+              <li><a href="#">Monitors</a>
+              </li>
+              <li><a href="#">Networking</a>
+              </li>
+              <li><a href="#">Drive &amp; Storages</a>
+              </li>
+              <li><a href="#">Computer Components</a>
+              </li>
+              <li><a href="#">Security &amp; Protection</a>
+              </li>
+              <li><a href="#">Gaming Laptop</a>
+              </li>
+              <li><a href="#">Accessories</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </li>
+      <li><a href="#">Babies &amp; Moms</a>
+      </li>
+      <li><a href="#">Sport &amp; Outdoor</a>
+      </li>
+      <li><a href="#">Phones &amp; Accessories</a>
+      </li>
+      <li><a href="#">Books &amp; Office</a>
+      </li>
+      <li><a href="#">Cars &amp; Motocycles</a>
+      </li>
+      <li><a href="#">Home Improments</a>
+      </li>
+      <li><a href="#">Vouchers &amp; Services</a>
+      </li>
+    </ul>
+  </div>
+</div>
+<div class="ps-panel--sidebar" id="search-sidebar">
+  <div class="ps-panel__header">
+    <form class="ps-form--search-mobile" action="" method="get">
+      <div class="form-group--nest">
+        <input class="form-control" type="text" placeholder="Search something...">
+        <button><i class="icon-magnifier"></i></button>
+      </div>
+    </form>
+  </div>
+  <div class="navigation__content"></div>
+</div>
+<div class="ps-panel--sidebar" id="cart-mobile">
+  <div class="ps-panel__header">
+    <h3>Shopping Cart</h3>
+  </div>
+  <div class="navigation__content">
+    <div class="ps-cart--mobile">
+      <div class="ps-cart__content">
+          
+      </div>
+      <div class="ps-cart__footer">
+        <h3>Sub Total:<strong>$0</strong></h3>
+        <figure><a class="ps-btn" href="https://mboss.electroshop.co/cart">View Cart</a><a class="ps-btn" href="https://mboss.electroshop.co/checkout">Checkout</a></figure>
+      </div>
+    </div>
+  </div>
+</div>
+<!---- /Menus For Mobile View --->
+<!--- Homepage-wrapper --->
+<div id="homepage-wrapper">
+  <div class="ps-home-banner auto-scroll" data-id="banner_slider">
+    <div class="container">
+      <div class="ps-section__left" id="home-banner_cats">
+        
+      </div>
+      <div class="ps-section__center">
+        <div class="ps-carousel--dots owl-slider" data-owl-auto="true" data-owl-loop="true" data-owl-speed="5000" data-owl-gap="0" data-owl-nav="false" data-owl-dots="true" data-owl-item="1" data-owl-item-xs="1" data-owl-item-sm="1" data-owl-item-md="1" data-owl-item-lg="1" data-owl-duration="1000" data-owl-mousedrag="on" id="banner_home">
+          <a href="https://www.zataraa.com/categories/?cats=Women---s_Clothing&parent=true"><img src="https://mboss.electroshop.co//admin-assets/images/banner-11.jpg" alt=""></a>
+          <a href="https://www.zataraa.com/"><img src="https://mboss.electroshop.co//admin-assets/images/banner-21.jpg" alt=""></a>
+          <a href="https://www.zataraa.com/"><img src="https://mboss.electroshop.co//admin-assets/images/banner-31.jpg" alt=""></a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="ps-search-trending" >
+    <div class="container">
+      <div class="ps-section__header">
+        <h3>Search Trending</h3>
+      </div>
+      <div class="ps-section__content">
+        <div class="ps-block--categories-tabs ps-tab-root">
+          <div class="ps-block__header">
+            <div class="ps-carousel--nav ps-tab-list owl-slider auto-scroll" id="search_trending" data-id="search_trending"
+
+            data-owl-auto="false" data-owl-speed="1000" data-owl-gap="0" data-owl-nav="true" data-owl-dots="true" data-owl-item="8" data-owl-item-xs="3" data-owl-item-sm="4" data-owl-item-md="6" data-owl-item-lg="6" data-owl-duration="500" data-owl-mousedrag="on">
+     
+             
+                              
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class="active " href="#764DB83F-C286-4CA9-9ACF-4017CFC86A39">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Tablet & Laptop Accessories</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#7ECEEABC-0396-411D-969A-8F69CC7369E5">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Laptop & Tablets</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#E79489E4-8022-42F5-9847-9B4543C8763F">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Networking</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#188CE695-A4AF-48A4-B855-6BE1C7F0A44F">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Office Electronics</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#192C9D30-5FEA-4B67-B251-AF6E97678DFF">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Security & Protection</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#23AD5346-5552-4392-A922-69CE426EC583">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Storage Devices</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#392D3DB2-1E98-474E-9E45-9F2FE95A7608">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>LED Lighting</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#59AEBD05-0FDB-4392-BCF5-518C411A26E0">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Outdoor Lighting</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#67391D45-D736-40E9-9D90-F56418804ECC">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Tools</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#85EF081C-819E-448F-BD5C-C5D3F4CFAADA">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Home Appliances</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#BEFFF5CB-EF79-4984-9C55-62C23B95C0F7">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Indoor Lighting</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#D82A6AF3-78F1-4A33-8F44-A37F282B2209">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Men's Luggage & Bags</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#E93B19EF-4E2C-4526-B2DF-BBFB6F2A80A7">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Women's Shoes</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#EC2E9303-E704-43F3-834A-A15EA653232E">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Women's Luggage & Bags</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#FE8AD446-B2BF-4C8C-B90B-49A6F2B3FF6A">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Men's Shoes</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#1E2633D4-2F96-4E2A-ABF7-BCBF3DFEE28A">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Sneakers</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#36492F79-E7EB-42F0-8DCC-6129BD9D2AE1">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Other Sports Equipment</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#4B36F14A-6894-4047-8845-56CAFCF9A914">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Swimming</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#55A1D05D-A254-4242-A4BD-4BE88F0680B6">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Cycling</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#66C86053-159B-436E-B4A9-4A7CCB5CAC8A">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Sportswear</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#CD4184EB-CD02-4789-8CFA-8FF3B4DEFC4E">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Fishing</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#1D5C8310-38DC-436D-B281-37660F7673B1">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Exterior Accessories</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#575086BA-B96B-4557-85C9-004D3DF6A9AE">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Interior Accessories</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#8D23F08A-3D9E-4A29-A184-EB6F8145E739">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Tools, Maintenance & Care</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#AE1E932F-7832-4CE8-9DFE-885044383863">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Car Electronics</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#D82400A8-94A4-410C-9155-0DCD4115DEA4">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Motorcycle Accessories & Parts</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#FBA0652F-AC56-4EB6-9360-8CE42B83BF48">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Auto Replacement Parts</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#01114D8D-79BD-4AD9-85A0-72D1B050E3F8">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Wedding & Engagement</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#123ACC01-7A11-4FB9-A532-338C0E7C04C5">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Fashion Jewelry</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#3E53507E-2EDB-49F1-8D0D-AD01225DAD8A">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Fine Jewelry</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#603B4E08-4226-4BFC-A46E-FCCE92ED1C63">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Men's Watches</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#F1B0B876-9103-4DF0-9EA5-524094648BFD">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Women's Watches</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#04D68B68-1048-4971-BAFA-18FA0A6DB95C">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Toys & Hobbies</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#0F88CF9B-C46C-491B-8933-115806ED8A13">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Shoes & Bags</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#54251EAE-F02B-4B6B-93D7-DE2BB387F60B">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Boys Clothing</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#7A31FADF-137D-4C83-AD7B-BCF28CACDA94">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Baby Clothing</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#8C946349-0DC4-4B1E-AC41-E4FE30288DEE">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Baby & Mother</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#BE42B051-DE15-444A-97FA-79580E6AEC78">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Girls Clothing</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#01FD30A0-118E-4269-A6D2-8415E9C163BA">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Nail Art & Tools</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#3B5BDD4D-34F4-4807-BC6C-943C2C1BCDB8">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Hair & Accessories</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#3C677D1C-C1AA-461F-851F-3E8A42C82984">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Synthetic Hair</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#6289460B-5660-468A-AE43-3D619A05AAC2">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Skin Care</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#71BB975B-A54E-489E-95BF-3105433858D0">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Hair Weaves</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#7EAF3E36-620B-4D78-818F-EE80955462A4">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Makeup</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#BF7AE6E9-E175-48FD-B1E3-3CF0126C90D0">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Wigs & Extensions</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#CE5FADBB-B432-40B9-8B20-200F6928762A">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Beauty Tools</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#20DA7E59-3A12-40DE-B8B6-78AD03A61DB1">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Underwear & Loungewear</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#609C16BC-2A1E-4FE5-9A07-7D7E36EA24F5">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Outerwear & Jackets</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#90619059-822F-469F-9231-D58761546093">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Accessories</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#ACCD31BE-6CFB-40DB-AB0D-FD5FAA14153A">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Bottoms</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#C118B8EA-D1AF-4C66-AA8A-FCCC28B8C073">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>T-Shirts</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#CBD11BEF-8BA5-4C87-98DD-1A61192C0180">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Novelty & Special Use</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#DC3A5713-984B-4877-95C4-8400B7151AF8">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Hats & Caps</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#23DDAF61-8F6C-40F7-9F1F-DC9BB25450B6">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Accessories</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#422D4713-284A-49EE-8E53-680B7DCC72FE">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Tops & Sets</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#4257920C-6E7D-4B56-B031-0FC7AC6EF981">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Bottoms</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#6D2A8F6D-4AF4-421D-840D-B5C1E52C3A75">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Underwears</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#773E0DBE-EEB6-40E9-984F-4ACFB0F58C9A">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Outerwear & Jackets</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#85CC5FF8-1CAC-4725-9F07-C778AB627E1B">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Weddings & Events</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#30063684-45E2-4929-BB85-441C1DF80DDE">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Accessories & Parts</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#4BFAF763-DD09-4DD3-A7E9-E03724D1D51B">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Home Audio & Video</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#6A03FBB1-F7D9-441F-B06D-EF45CA87B553">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Smart Electronics</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#85E0D3B7-C3C4-4F1B-98A6-958389A1BEBE">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Camera & Photo</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#997DBFF0-627C-4397-80D3-C12EA3906969">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Video Games</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#DC11C779-CCD5-429C-9A93-F638456E745B">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Portable Audio & Video</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#912FD088-248B-4D58-84F7-1F10B888CF8A">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Mobile Phone Accessories</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#9FA474CF-E06D-4708-AD56-F39FED7F88E3">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Cases & Covers</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#BAD75444-1463-4B4C-8AD2-BC9ABDD92E5B">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Mobile Phone Parts</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#F9AAF742-3A67-4887-BFBE-CF16B08910CF">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Mobile Phones</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#1AD00A3C-465A-430A-9820-F2D097FDA53A">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Home Textiles</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#2180A6DC-32EC-44B2-8FD4-CE3DD6DB4C19">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Arts, Crafts & Sewing</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#7D40D0BB-1466-4EEA-B275-0EB4CC0020D8">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Festive & Party Supplies</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#CC4A7507-4A32-40CC-B053-825C73F705CA">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Pet Products</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#D5D120D0-1262-461A-97C5-74AC732625B5">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Kitchen, Dining & Bar</span></a>
+              </div>
+                               
+          <div class="owl-item active" style="width: 130px; margin-right: 0px;">
+              <a class=" " href="#ED8E61AA-2260-4E03-BA66-DEAE3DF02CDC">
+
+
+                    <i class="icon-star"></i>
+                 
+                
+
+                <span>Home Storage</span></a>
+              </div>
+                            
+<div class="owl-controls"><div class="owl-nav"><div class="owl-prev" style=""><i class="icon-chevron-left"></i></div><div class="owl-next" style=""><i class="icon-chevron-right"></i></div></div><div class="owl-dots" style="display: block;"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+            </div>
+          </div>
+          <div class="ps-tabs">
+            <div class="ps-tabs" id="search_trending_tab">
+              
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="ps-deal-of-day auto-scroll"  data-id="section_one">
+    <div class="container">
+      <div class="ps-section__header">
+        <div class="ps-block--countdown-deal">
+          <div class="ps-block__left">
+            <h3>Deal of the Week</h3>
+          </div>
+        </div><a href="https://mboss.electroshop.co/products">View all</a>
+      </div>
+      <div class="ps-section__content"  id="deal_of_the_Week">
+        
+      </div>
+    </div>
+  </div>
+  <div class="ps-product-box">
+    <div class="container">
+
+            <div class="ps-block--product-box">
+        <div class="ps-block__header">
+          <h3><i class="icon-laundry"></i>  Consumer Electronic</h3>
+        </div>
+        <div class="ps-block__content">
+          <div class="ps-block__left">
+            <div class="ps-carousel--nav-inside owl-slider" data-owl-auto="true" data-owl-loop="true" data-owl-speed="5000" data-owl-gap="0" data-owl-nav="true" data-owl-dots="true" data-owl-item="1" data-owl-item-xs="1" data-owl-item-sm="1" data-owl-item-md="1" data-owl-item-lg="1" data-owl-duration="1000" data-owl-mousedrag="on"><a href=""><img src="https://mboss.electroshop.co//admin-assets/images/banner-glam-look-dia-colorido-1000x330.jpg" alt=""></a><a href=""><img src="https://mboss.electroshop.co//admin-assets/images/electronic-1_(2).jpg" alt=""></a></div>
+            <div class="ps-block__products ps-tab-root">
+            
+              <div class="ps-tabs">
+                <div class="ps-tab active auto-scroll" data-id="section_two" id="product-box-e-1">
+                  
+                </div>
+                
+                
+              </div>
+            </div>
+          </div>
+          <div class="ps-block__right ">
+            <figure id="recomended_product_one">
+              
+
+            </figure>
+          </div>
+        </div>
+      </div>
+          <div class="ps-block--product-box">
+        <div class="ps-block__header">
+          <h3><i class="icon-shirt"></i>  Clothing & Appreal</h3>
+        
+        </div>
+        <div class="ps-block__content">
+          <div class="ps-block__left">
+            <div class="ps-carousel--nav-inside owl-slider" data-owl-auto="true" data-owl-loop="true" data-owl-speed="5000" data-owl-gap="0" data-owl-nav="true" data-owl-dots="true" data-owl-item="1" data-owl-item-xs="1" data-owl-item-sm="1" data-owl-item-md="1" data-owl-item-lg="1" data-owl-duration="1000" data-owl-mousedrag="on"><a href=""><img src="https://mboss.electroshop.co//admin-assets/images/home_decor_44.jpg" alt=""></a><a href=""><img src="https://mboss.electroshop.co//admin-assets/images/clothing-339.jpg" alt=""></a></div>
+            <div class="ps-block__products ps-tab-root">
+              
+              <div class="ps-tabs">
+                <div class="ps-tab active auto-scroll" data-id="section_three" id="product-box-c-1">
+                  
+
+                </div>
+                
+                
+              </div>
+            </div>
+          </div>
+          <div class="ps-block__right">
+            <figure id ="recomended_product_two">
+              
+
+            </figure>
+          </div>
+        </div>
+      </div>
+
+          <div class="ps-block--product-box">
+        <div class="ps-block__header">
+          <h3><i class="icon-shirt"></i> Home, Garden & Kitchen</h3>
+         
+        </div>
+        <div class="ps-block__content">
+          <div class="ps-block__left">
+            <div class="ps-carousel--nav-inside owl-slider" data-owl-auto="true" data-owl-loop="true" data-owl-speed="5000" data-owl-gap="0" data-owl-nav="true" data-owl-dots="true" data-owl-item="1" data-owl-item-xs="1" data-owl-item-sm="1" data-owl-item-md="1" data-owl-item-lg="1" data-owl-duration="1000" data-owl-mousedrag="on"><a href=""><img src="https://mboss.electroshop.co//admin-assets/images/kitchen-1_(1)1.jpg" alt=""></a><a href=""><img src="https://mboss.electroshop.co//admin-assets/images/kitchen-xyzabc1.jpg" alt=""></a></div>
+            <div class="ps-block__products ps-tab-root">
+              <div class="ps-tabs">
+                <div class="ps-tab active auto-scroll" data-id="our_collection" id="product-box-h-1">
+                  
+
+                </div>
+                
+                
+              </div>
+            </div>
+          </div>
+          <div class="ps-block__right">
+            <figure id="recomended_product_three">
+              
+
+            </figure>
+          </div>
+        </div>
+      </div>
+
+          <div class="ps-block--product-box">
+        <div class="ps-block__header">
+          <h3>Our Collections</h3>
+          <a href="https://mboss.electroshop.co/products">See More</a>
+        </div>
+        <div class="ps-block__content">
+          <div class="ps-block__products" id="our_collection">
+            
+
+          </div>
+
+        </div>
+         <div class="text-center" style="width:100%;clear: both;padding-top: 20px;"> <button class="load-more btn  btn-info text-center" data-id="1" style="font-size: 18px; margin-top: 12px;">Load More</button></div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--- Homepage-wrapper --->
+<!--- Footer --->
+<footer class="ps-footer ps-footer--3">
+    <div class="container">
+        <div class="ps-block--site-features ps-block--site-features-2">
+            <div class="ps-block__item">
+                <div class="ps-block__left"><i class="icon-rocket"></i></div>
+                <div class="ps-block__right">
+                    <h4>Fast Delivery</h4>
+                    <!-- <p>For all oders over $99</p> -->
+                </div>
+            </div>
+            <div class="ps-block__item">
+                <div class="ps-block__left"><i class="icon-sync"></i></div>
+                <div class="ps-block__right">
+                    <h4>30 Days Return</h4>
+                    <p>If goods have problems</p>
+                </div>
+            </div>
+            <div class="ps-block__item">
+                <div class="ps-block__left"><i class="icon-credit-card"></i></div>
+                <div class="ps-block__right">
+                    <h4>Secure Payment</h4>
+                    <p>100% secure payment</p>
+                </div>
+            </div>
+            <div class="ps-block__item">
+                <div class="ps-block__left"><i class="icon-bubbles"></i></div>
+                <div class="ps-block__right">
+                    <h4>24/7 Support</h4>
+                    <p>Dedicated support</p>
+                </div>
+            </div>
+        </div>
+        <div class="ps-footer__widgets">
+            <aside class="widget widget_footer widget_contact-us">
+                <h4 class="widget-title">Contact us</h4>
+                <div class="widget_content">
+                    <p>Call us 24/7</p>
+                    <h3>24/7 Chat</h3>
+                    <p>Zataraa SNS, 1/F, Mapletree Logistics Hub Tsing Yi, 30 Tsing Yi Road, Hong Kong <br><a href="Zataraa SNS, 1/F, Mapletree Logistics Hub Tsing Yi, 30 Tsing Yi Road, Hong Kong"><span class="__cf_email__" data-cfemail="support@zataraa.com">support@zataraa.com</span></a></p>
+                    <ul class="ps-list--social">
+                        <li><a class="facebook" href="https://www.facebook.com/zataraastores/"><i class="fa fa-facebook"></i></a></li>
+                        <li><a class="twitter" href="https://twitter.com/Zataraastores"><i class="fa fa-twitter"></i></a></li>
+                        <li><a class="google-plus" href=""><i class="fa fa-google-plus"></i></a></li>
+                        <li><a class="instagram" href="https://www.instagram.com/zataraastores/"><i class="fa fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </aside>
+            <aside class="widget widget_footer">
+                <h4 class="widget-title">Quick links</h4>
+                <ul class="ps-list--link">
+                    <li><a href="https://mboss.electroshop.co/policy">Privacy Policy </a></li>
+                    <li><a href="https://mboss.electroshop.co/terms_condition">Term & Condition</a></li>
+                    <li><a href="https://mboss.electroshop.co/shipping">Shipping</a></li>
+                    <li><a href="https://mboss.electroshop.co/return">Return</a></li>
+                    <li><a href="https://mboss.electroshop.co/faqs">FAQs</a></li>
+                </ul>
+            </aside>
+            <aside class="widget widget_footer">
+                <h4 class="widget-title">Company</h4>
+                <ul class="ps-list--link">
+                    <li><a href="https://mboss.electroshop.co/about">About Us</a></li>
+                    <li><a href="https://mboss.electroshop.co/payment_method">Payment Method</a></li>
+                    <!-- <li><a href="#">Career</a></li> -->
+                    <li><a href="https://mboss.electroshop.co/contact">Contact</a></li>
+                </ul>
+            </aside>
+            <aside class="widget widget_footer">
+                <h4 class="widget-title">Bussiness</h4>
+                <ul class="ps-list--link">
+                    <li><a href="https://mboss.electroshop.co/our_press">Our Press</a></li>
+                    <li><a href="https://mboss.electroshop.co/checkout">Checkout</a></li>
+                    <li><a href="https://mboss.electroshop.co/users">My account</a></li>
+                    <li><a href="https://mboss.electroshop.co/products">Shop</a></li>
+                </ul>
+            </aside>
+        </div>
+        <div class="ps-footer__copyright">
+            <p>© 2020 Zataraa Online Shopping. All Rights Reserved</p>
+            <!-- <p><a href="http://corbsoftware.com">Website Design & Developed by Corb Software</a></p> -->
+            <p><span>We Using Safe Payment For:</span><a href="#"><img src="https://mboss.electroshop.co//frontend-assets/img/paypal.jpeg" alt="" style="
+    height: 30px;
+"></a><a href="#"><img src="https://mboss.electroshop.co//frontend-assets/img/payment-method/3.jpg" alt=""></a><a href="#"><img src="https://mboss.electroshop.co//frontend-assets/img/payment-method/5.jpg" alt=""></a></p>
+        </div>
+    </div>
+</footer>
+<!--- /Footer --->
+
+<div id="back2top"><i class="pe-7s-angle-up"></i></div>
+
+<script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', includedLanguages: 'fi,fr,ar,en,es,ru,cs,da,lb,sv,pt-PT,de,it,pl,pt,is,no,hu,nl', autoDisplay: false}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script src="https://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">$(document).ready(function() { 
+  $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/get_home_banner_cats',
+            cache: false,       
+            success: function(data){ 
+                $( "#home-banner_cats").html(data);
+            }
+        });
+
+
+    $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/get_header_menu_cats',
+            cache: false,       
+            success: function(data){ 
+                $( ".header_menu-cats").html(data);
+            }
+        });
+  });
+</script>
+    <script src="https://code.jquery.com/ui/1.11.4/jquery-ui.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/translate/script.js"></script>
+
+
+<script type="text/javascript" src="https://mboss.electroshop.co/admin-assets/js/chosen.jquery.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+
+    //DOM manipulation code
+  $(".pcategories").chosen();
+
+});
+    </script>
+
+    <script>
+
+            $('.add_to_wishlist').on('click', function(e){
+          e.preventDefault();
+        var id  = $(this).data("id");
+         $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/add_to_wishlist',
+            data:{id},       
+            success: function(response){ 
+
+                $.ajax({
+                        type: "post",
+                        url:'https://mboss.electroshop.co/wishlist_count',
+                        data:{id},
+                        cache: false,       
+                        success: function(response){ 
+
+                            $('.wish-list').html(response); 
+                        },
+                
+                    });       
+                },
+            error: function(){            
+              alert('Error while request..');
+            }
+        });
+     });
+
+        $(function() {
+    
+            var availableTags = [];
+        $( "#tags" ).autocomplete({
+
+
+            source: function (request, response)
+    {
+
+        $.ajax(
+        {
+           
+            type:'POST',
+            url:'https://mboss.electroshop.co/get_search_val',
+            data:
+            {
+                term: request.term,
+                cats : $('.cats :selected').val()
+            },
+            success:function(data)
+            {
+               data = jQuery.parseJSON(data);
+                response(data);
+
+
+            }
+        });
+    },
+    minLength: 2,
+
+     change: function( event, ui ) {},
+                            autoFocus: true,
+                            select: function (event, ui) {
+                                value  = encodeURI(ui.item.label) ;
+            window.open("https://mboss.electroshop.co/products/?s="+value+""); 
+
+                           },
+        });  
+
+
+
+$("select.cats").change(function(){
+var cats = $('#tags').val('');
+  
+
+    });
+           
+        });
+    </script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/owl-carousel/owl.carousel.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/bootstrap4/js/bootstrap.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/imagesloaded.pkgd.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/isotope.pkgd.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/jquery.matchHeight-min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/slick/slick/slick.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/jquery-bar-rating/dist/jquery.barrating.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/slick-animation.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/lightGallery-master/dist/js/lightgallery-all.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/jquery-ui/jquery-ui.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/sticky-sidebar/dist/sticky-sidebar.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/jquery.slimscroll.min.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/plugins/select2/dist/js/select2.full.min.js"></script>
+<!-- Custom scripts-->
+<script src="https://mboss.electroshop.co//frontend-assets/js/main.js"></script>
+<script src="https://mboss.electroshop.co//frontend-assets/js/jquery.exzoom.js"></script>
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/5e6f6c46eec7650c33204a7d/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+ 
+ </body>
+ <script>
+ $("span.s_curency").click(function(){
+  $('.curency009').toggle('slow');
+ });
+
+ $(".ps-dropdown a").click(function(){
+  $('.ps-dropdown .new_dropdown1').toggle('slow');
+ });
+$(".new_dropdown1").click(function(){
+  $(this).addClass('active');
+ });
+
+$(".apply_currencies").on('click', function(e){
+
+ var currencies = $("input[name=currencies]").val();
+ var country =     $("input[name=country]").val();
+ var url = "https://mboss.electroshop.co/";
+ window.location.replace(""+url+"?country="+country+"&currencies="+currencies+"");
+});
+
+ 
+</script>
+<script type="text/javascript">
+
+    $('.container').imagesLoaded( function() {
+  $("#exzoom").exzoom({
+        autoPlay: false,
+    });
+  $("#exzoom").removeClass('hidden')
+});
+$(function() {
+  $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/get_header_menu_cats',
+            cache: false,       
+            success: function(data){ 
+                $( ".header_menu-cats").html(data);
+            }
+        });
+  });
+</script>
+ 
+</html>
+
+<script type="text/javascript">
+  
+
+    
+        
+
+        $(".icon-menu").click(function () {
+ $(this).toggleClass('active');
+        });
+</script>
+
+<script type="text/javascript">
+  let firedEvents = [];
+
+$(window).scroll(function() {
+  $("div.auto-scroll").each(function() {
+    if (!firedEvents.includes(this)  && $(window).scrollTop() > $(this).offset().top) {
+     
+      firedEvents.push(this);
+      if($(this).data("id") == "section_one"){
+
+          $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/get_section_one',
+            cache: false,       
+            success: function(data){ 
+                $( "#product-box-e-1").html(data);
+            }
+        });
+
+        $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/recomended_product_one',
+            cache: false,       
+            success: function(data){ 
+                $( "#recomended_product_one").html(data);
+            }
+        });
+      }
+      if($(this).data("id") == "section_two"){
+
+          $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/get_section_two',
+            cache: false,       
+            success: function(data){ 
+                $( "#product-box-c-1").html(data);
+            }
+        });
+
+        $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/recomended_product_two',
+            cache: false,       
+            success: function(data){ 
+                $( "#recomended_product_two").html(data);
+            }
+        });
+      }
+
+       if($(this).data("id") == "section_three"){
+
+          $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/get_section_three',
+            cache: false,       
+            success: function(data){ 
+                $( "#product-box-h-1").html(data);
+            }
+        });
+
+        $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/recomended_product_three',
+            cache: false,       
+            success: function(data){ 
+                $( "#recomended_product_three").html(data);
+            }
+        });
+      }
+    if($(this).data("id") == "our_collection"){
+      $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/our_collection',
+            cache: false,       
+            success: function(data){ 
+                $( "#our_collection").html(data);
+            }
+        });
+    }
+
+ if($(this).data("id") == "banner_slider"){
+
+     $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/search_trending',
+            cache: false,       
+            success: function(data){ 
+               // $( "#search_trending").html(data);
+                $( "#search_trending > .owl-stage-outer > .owl-stage" ).empty();
+          $( "#search_trending > .owl-stage-outer > .owl-stage" ).append(data);
+            }
+        });
+
+  $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/search_trending_tab',
+            cache: false,       
+            success: function(data){ 
+                $( "#search_trending_tab").html(data);
+            }
+        });
+}
+ if($(this).data("id") == "search_trending"){
+
+    $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/deals_of_the_weak',
+            cache: false,       
+            success: function(data){ 
+                $( "#deal_of_the_Week").html(data);
+            }
+        });
+
+  }
+
+      
+
+    }
+  });
+});
+   $('search_trending').on('click', ' li > a',function(e) {
+            e.preventDefault();
+            var target = $(this).attr('href');
+            $(this).closest('li').siblings('li').removeClass('active');
+            $(this).closest('li').addClass('active');
+            $(target).addClass('active');
+            $(target).siblings('.ps-tab').removeClass('active');
+        });
+ $('#search_trending').on('click', '.owl-item a', function(e){
+            e.preventDefault();
+            var target = $(this).attr('href');
+            $(this).closest('.owl-item').siblings('.owl-item').removeClass('active');
+            $(this).closest('.owl-item').addClass('active');
+            $(target).addClass('active');
+            $(target).siblings('.ps-tab').removeClass('active');
+        });
+ $('.load-more').on('click', function(e){
+            e.preventDefault();
+            var id = $(this).attr('data-id');
+              $.ajax({
+            type: "post",
+            url:'https://mboss.electroshop.co/our_collection',
+            cache: false,
+            data : id,       
+            success: function(data){ 
+                $( "#our_collection").append(data);
+            }
+        });
+        });
+
+</script>
